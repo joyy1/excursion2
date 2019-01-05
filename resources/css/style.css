@@ -1,6 +1,6 @@
 style.css
 body{
-  text-align: center;
+  text-align:center;
   background-color: #000000;
   font-family: verdana;
 }
@@ -28,6 +28,8 @@ p{
 
 }
 
-
-
+.footer{
+  text-align: right;
+  color: gray;
+  font-size: 20px;
 }
