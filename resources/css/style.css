@@ -1,6 +1,33 @@
 style.css
-.image{
-  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/mocks/excursion.png);
-  height: 1938px;
-  width:  1280px;
+body{
+  text-align: center;
+  background-color: #000000;
+  font-family: verdana;
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+h3{
+  color: aquamarine;
+  font-size: 16px
+}
+
+h2{
+  font-weight: 300;
+font-size: 40px;
+color:white
+}
+
+p{
+  color: gray;
+  font-size: 21px
+
+}
+
+
+
 }
